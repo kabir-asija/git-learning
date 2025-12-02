@@ -2,3 +2,5 @@ this is my file two...
 
 new page added
 added footer
+
+added logos
